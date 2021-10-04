@@ -1,6 +1,6 @@
 # Canada Political Part Email
 
-## Have a look at this dataset of emails from Canadian political parties
+## Dataset of emails from Canadian political parties
 (Emails from Canadian Federal Political Parties- there are 8 datasets in 3 formats each,)
 
 - Consider the email body text, and identify people talked about in these emails
